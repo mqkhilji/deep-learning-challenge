@@ -1,4 +1,4 @@
-## Deep-Learning-Challenge Overview of the Analysis
+## Deep-Learning-Challenge | Overview of the Analysis
 
 This analysis aimed to develop a binary classifier capable of predicting the likelihood of funding application success for Alphabet Soup, a philanthropic organization. Leveraging a dataset of over 34,000 past applications, we sought to identify patterns to optimize resource allocation towards projects with the highest success potential.
 
